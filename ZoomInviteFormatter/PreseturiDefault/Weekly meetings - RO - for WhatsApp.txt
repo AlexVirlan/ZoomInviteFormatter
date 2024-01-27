@@ -1,0 +1,21 @@
+﻿Salutare dragilor! 🤗
+Link-ul de Zoom prin care ne vom putea conecta la întrunire *împreună cu toată congregația* este următorul:
+
+{link}
+
+În cazul în care dorim să ne conectăm folosind ID-ul de întrunire,
+ID-ul este: *{id}*
+Password (parola): *{pw}*
+
+
+Acestea sunt numerele de telefon apelabile pentru conectarea la conferință, *DOAR* pt _cei care *nu* se vor putea conecta prin internet:_
+
+📞 {tel1}
+📞 {tel2}
+
+ℹ Virgula poate fi tastata pe telefon tinand apasat pe steluta.
+ℹ Numerele pot fi salvate in agenda pentru a fi mai usor de apelat.
+
+
+Ne putem conecta *începând cu ora {time}.*
+Ne vedem curând!

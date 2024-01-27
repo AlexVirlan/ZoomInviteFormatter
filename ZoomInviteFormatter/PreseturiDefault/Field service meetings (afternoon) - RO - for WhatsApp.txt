@@ -1,0 +1,12 @@
+﻿Buna ziua dragilor! 🤗
+Link-ul de Zoom pentru intrunirea premergatoare din aceasta dupa-amiaza este următorul:
+
+{link}
+
+În cazul în care dorim să ne conectăm folosind ID-ul de întrunire,
+ID-ul este: *{id}*
+Password (parola): *{pw}*
+
+
+Ne putem conecta *începând cu ora {time}.*
+Ne vedem curând!
